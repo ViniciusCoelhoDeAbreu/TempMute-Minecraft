@@ -1,0 +1,10 @@
+name: TempMute
+author: KickPost
+version: 1.0
+main: br.com.kickpost.tempmute.TempMute
+
+commands:
+  tempmute:
+    permission: tempmute.use
+  unmute:
+    permission: unmute.use  
